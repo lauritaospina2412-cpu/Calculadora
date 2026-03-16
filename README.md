@@ -27,11 +27,9 @@ La app permite realizar operaciones matemáticas básicas con una interfaz moder
 ---
 
 ## 📂 Estructura del proyecto
-
-Calculadora
-    MainActivity.kt → Lógica de la calculadora
-    activity_main.xml → Diseño de la interfaz
-    AndroidManifest.xml → Configuración de la aplicación
+    - MainActivity.kt → Lógica de la calculadora
+    - activity_main.xml → Diseño de la interfaz
+    - AndroidManifest.xml → Configuración de la aplicación
 ---
 
 ## 🚀 Cómo ejecutar el proyecto
